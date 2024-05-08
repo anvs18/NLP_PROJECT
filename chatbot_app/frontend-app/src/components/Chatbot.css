@@ -1,0 +1,109 @@
+.chatbot-container {
+    display: flex;
+    flex-direction: column;
+    height: 900px;
+    width: 700px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+  
+  h1 {
+    color: #4a4e69;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    background-color: #b8c1ec;
+    border-bottom: 2px solid #9fa4c4;
+  }
+  
+  .messages-container {
+    flex-grow: 1;
+    padding: 15px;
+    overflow-y: auto;
+    background-color: white;
+  }
+  
+  .message {
+    margin: 8px;
+    padding: 12px;
+    border-radius: 20px;
+    color: #333;
+  }
+  
+  .message.user {
+    background-color: #c8d9eb;
+    align-self: flex-end;
+  }
+  
+  .message.bot {
+    background-color: #e2eafc;
+    align-self: flex-start;
+  }
+  
+  .message.loading {
+    color: #4a4e69;
+    align-self: center;
+  }
+  
+  .input-container {
+    display: flex;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-top: 2px solid #9fa4c4;
+  }
+  
+  .input-container input {
+    flex-grow: 1;
+    padding: 12px;
+    border: none;
+    border-radius: 20px;
+  }
+  
+  .input-container button {
+    margin-left: 15px;
+    padding: 12px 18px;
+    border: none;
+    border-radius: 20px;
+    background-color: #4a4e69;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .input-container button:hover {
+    background-color: #373f68;
+    color: #fff;
+  }
+  
+  .input-container button:hover:disabled {
+    background-color: #4a4e69;
+    color: white;
+  }
+  
+  
+
+  .message.start-conversation {
+    color: #666;
+    align-self: center;
+    margin-top: 50%;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.loading-spinner {
+    border: 5px solid #f3f3f3;
+    border-top: 5px solid #3498db;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    animation: spin 2s linear infinite;
+    margin: auto;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  
