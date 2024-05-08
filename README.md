@@ -36,5 +36,5 @@ npm install
 npm start
 
 Contributors:
-Naga Venkata Sahithya Alla - anvs18, sahithya-alla
+Naga Venkata Sahithya Alla - anvs18, sahithya-alla and
 Surya Sumanth Karuturi - suryanit
