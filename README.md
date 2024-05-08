@@ -1,4 +1,4 @@
-# NLP_PROJECT
+# NLP_PROJECT: Mental Health Chatbot
 This is an Empathetic Chatbot: LLMs for Societal Good
 
 Code for Milestone 2 is present in milestone 2 folder
