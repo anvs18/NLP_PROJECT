@@ -34,3 +34,7 @@ Then navigate to the frontend code directory and execute the following commands.
 npm install
 
 npm start
+
+Contributors:
+Naga Venkata Sahithya Alla - anvs18, sahithya-alla
+Surya Sumanth Karuturi - suryanit
