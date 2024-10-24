@@ -25,6 +25,9 @@ The dataset required to run the notebooks is present in the "[data](https://gith
 6. Intent Classifier
 7. NER module  
 
+# System Architecture:  
+![image](https://github.com/user-attachments/assets/8cc60248-cf1d-42ff-94fb-6511b1911ff1)  
+
 The preprocessing, model training, and evaluation code are present within the same notebook for NER, Intent Classification, Empathetic Generator, and facts generator.
 However, the Chitchat and sentence polishing modules are housed in separate files for their model training and evaluation.
 
