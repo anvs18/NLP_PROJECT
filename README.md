@@ -1,6 +1,8 @@
 # NLP_PROJECT: Mental Health Chatbot
 This is an Empathetic Chatbot: LLMs for Societal Good
 
+Detailed Report and Project Description: [Paper](https://github.com/alla-sahithya/Mental-Health-Chatbot/blob/main/report.pdf)
+
 Code for Milestone 2 is present in milestone 2 folder
 Code for Milestone 3 is present in milestone 3 folder
 
