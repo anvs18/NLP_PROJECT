@@ -4,10 +4,7 @@
 This project aims to develop an end-to-end conversational system, termed a socialbot, with the capability to engage in open-domain chitchat and human-like conversations with empathy. The system is designed to receive user input in the form of a query text and generate text responses that are contextually appropriate to the query and ongoing conversation. This project explores the utilization of Large Language Models (LLMs) in the development of a Mental Health Support Chatbot that addresses the mental health crisis by developing an accessible conversational system using Natural Language Processing techniques. The goal is
 to develop a chatbot that can quickly and meaningfully understand and respond to a variety of emotions and mental health concerns in order to address issues such as people’s embarrassment about discussing mental health concerns with others and a lack of resources.  
 
-Detailed Report and Project Description: [Paper](https://github.com/alla-sahithya/Mental-Health-Chatbot/blob/main/report.pdf)
-
-Code for Milestone 2 is present in milestone 2 folder
-Code for Milestone 3 is present in milestone 3 folder
+Detailed Project Report and Analysis: [Paper](https://github.com/alla-sahithya/Mental-Health-Chatbot/blob/main/report.pdf)
 
 # Datasets used:  
 1. BYU PCCL chitchat the Amazon Alexa Topical Chat dataset
