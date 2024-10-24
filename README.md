@@ -11,7 +11,7 @@ However, the Chitchat and sentence polishing modules are housed in separate file
 
 The chatbot Application code is present in chatbot_app folder which contains frontend and backend app codes and a readme.md file to run the app in the local machine.
 
-steps to run backend :-
+Steps to run backend :-
 ------------------------
 Make sure python is installed in the system.
 
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 flask run
 
-steps to run frontend :-
+Steps to run frontend :-
 -------------------------
 Make sure Node.js is installed in the machine.
 
