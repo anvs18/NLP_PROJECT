@@ -19,6 +19,15 @@ Code for Milestone 3 is present in milestone 3 folder
    
 The dataset required to run the notebooks is present in the "[data](https://github.com/alla-sahithya/Mental-Health-Chatbot/tree/main/data)" folder.
 
+# Main Components:  
+1. Empathetic Generator  
+2. Chit-chat Generator
+3. Facts Generator
+4. Neural re-ranker
+5. Dialouge Manager
+6. Intent Classifier
+7. NER module  
+
 The preprocessing, model training, and evaluation code are present within the same notebook for NER, Intent Classification, Empathetic Generator, and facts generator.
 However, the Chitchat and sentence polishing modules are housed in separate files for their model training and evaluation.
 
