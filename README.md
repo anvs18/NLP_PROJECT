@@ -40,4 +40,4 @@ Naga Venkata Sahithya Alla - anvs18, sahithya-alla and
 Surya Sumanth Karuturi - suryanit
 
 
-P.S: The structure is based on the instructions given by our instructor in the course. 
+P.S: The code and folders structure is based on the instructions given by our instructor in the course. 
